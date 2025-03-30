@@ -10,8 +10,8 @@ Normally Distributed Demand Scenarios
 Developed by
 Dr. Hannes Hobbie
 Postdoctoral Researcher at the Chair of Energy Economics, TU Dresden
-Email: hannes.hobbie@tu-dresden.de
-Last Updated on 21.01.2025
+Extended by
+Philipp Lahmeyer
 ========================================================================
 $offText
 
